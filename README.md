@@ -12,6 +12,6 @@
 
 ## 구현
 1. React
-2. Styld components
+2. Styled components
 3. [pokeAPI](https://pokeapi.co/)를 이용한 포켓몬 이미지 이름 아이디 구현
 4. recoil을 연습해보기 위해 매우매우 가볍게 사용
