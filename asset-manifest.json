@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/pokepick/static/js/main.6c0ad95f.js",
+    "static/media/ball.png": "/pokepick/static/media/ball.61633f2005d5e17c2876.png",
+    "index.html": "/pokepick/index.html",
+    "main.6c0ad95f.js.map": "/pokepick/static/js/main.6c0ad95f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c0ad95f.js"
+  ]
+}
