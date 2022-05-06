@@ -1,0 +1,606 @@
+{
+  "bulbasaur": {
+    "name": "이상해씨",
+    "color": "purple"
+  },
+  "ivysaur": {
+    "name": "이상해풀",
+    "color": "purple"
+  },
+  "venusaur": {
+    "name": "이상해꽃",
+    "color": "purple"
+  },
+  "charmander": {
+    "name": "파이리",
+    "color": "blue"
+  },
+  "charmeleon": {
+    "name": "리자드",
+    "color": "blue"
+  },
+  "charizard": {
+    "name": "리자몽",
+    "color": "purple"
+  },
+  "squirtle": {
+    "name": "꼬부기",
+    "color": "blue"
+  },
+  "wartortle": {
+    "name": "어니부기",
+    "color": "blue"
+  },
+  "blastoise": {
+    "name": "거북왕",
+    "color": "blue"
+  },
+  "caterpie": {
+    "name": "캐터피",
+    "color": "grey"
+  },
+  "metapod": {
+    "name": "단데기",
+    "color": "grey"
+  },
+  "butterfree": {
+    "name": "버터플",
+    "color": "green"
+  },
+  "weedle": {
+    "name": "뿔충이",
+    "color": "grey"
+  },
+  "kakuna": {
+    "name": "딱충이",
+    "color": "grey"
+  },
+  "beedrill": {
+    "name": "독침봉",
+    "color": "grey"
+  },
+  "pidgey": {
+    "name": "구구",
+    "color": "grey"
+  },
+  "pidgeotto": {
+    "name": "피죤",
+    "color": "green"
+  },
+  "pidgeot": {
+    "name": "피죤투",
+    "color": "green"
+  },
+  "rattata": {
+    "name": "꼬렛",
+    "color": "grey"
+  },
+  "raticate": {
+    "name": "레트라",
+    "color": "grey"
+  },
+  "spearow": {
+    "name": "깨비참",
+    "color": "grey"
+  },
+  "fearow": {
+    "name": "깨비드릴조",
+    "color": "grey"
+  },
+  "ekans": {
+    "name": "아보",
+    "color": "green"
+  },
+  "arbok": {
+    "name": "아보크",
+    "color": "green"
+  },
+  "pikachu": {
+    "name": "피카츄",
+    "color": "purple"
+  },
+  "raichu": {
+    "name": "라이츄",
+    "color": "blue"
+  },
+  "sandshrew": {
+    "name": "모래두지",
+    "color": "green"
+  },
+  "sandslash": {
+    "name": "고지",
+    "color": "green"
+  },
+  "nidoran-f": {
+    "name": "니드런",
+    "color": "grey"
+  },
+  "nidorina": {
+    "name": "니드리나",
+    "color": "grey"
+  },
+  "nidoqueen": {
+    "name": "니드퀸",
+    "color": "grey"
+  },
+  "nidoran-m": {
+    "name": "니드런♂",
+    "color": "grey"
+  },
+  "nidorino": {
+    "name": "니드리노",
+    "color": "grey"
+  },
+  "nidoking": {
+    "name": "니드킹",
+    "color": "grey"
+  },
+  "clefairy": {
+    "name": "삐삐",
+    "color": "green"
+  },
+  "clefable": {
+    "name": "픽시",
+    "color": "green"
+  },
+  "vulfix": {
+    "name": "식스테일",
+    "color": "green"
+  },
+  "ninetails": {
+    "name": "나인테일",
+    "color": "blue"
+  },
+  "jigglypuff": {
+    "name": "푸린",
+    "color": "green"
+  },
+  "wigglytuff": {
+    "name": "푸크린",
+    "color": "green"
+  },
+  "zubat": {
+    "name": "주뱃",
+    "color": "grey"
+  },
+  "golbat": {
+    "name": "골뱃",
+    "color": "grey"
+  },
+  "oddish": {
+    "name": "뚜벅쵸",
+    "color": "grey"
+  },
+  "gloom": {
+    "name": "냄새꼬",
+    "color": "grey"
+  },
+  "vileplume": {
+    "name": "라플레시아",
+    "color": "green"
+  },
+  "paras": {
+    "name": "파라스",
+    "color": "grey"
+  },
+  "parasect": {
+    "name": "파라섹트",
+    "color": "grey"
+  },
+  "venonat": {
+    "name": "콘팡",
+    "color": "grey"
+  },
+  "venomoth": {
+    "name": "도나리",
+    "color": "gret"
+  },
+  "diglett": {
+    "name": "디그다",
+    "color": "blue"
+  },
+  "dugtrio": {
+    "name": "닥트리오",
+    "color": "blue"
+  },
+  "meowth": {
+    "name": "냐옹",
+    "color": "purple"
+  },
+  "persian": {
+    "name": "페르시온",
+    "color": "blue"
+  },
+  "psyduck": {
+    "name": "고라파덕",
+    "color": "purple"
+  },
+  "golduck": {
+    "name": "골덕",
+    "color": "blue"
+  },
+  "mankey": {
+    "name": "망키",
+    "color": "green"
+  },
+  "primeape": {
+    "name": "성원숭",
+    "color": "green"
+  },
+  "growlithe": {
+    "name": "가디",
+    "color": "green"
+  },
+  "arcanine": {
+    "name": "윈디",
+    "color": "green"
+  },
+  "poliwag": {
+    "name": "발챙이",
+    "color": "grey"
+  },
+  "poliwhirl": {
+    "name": "수륙챙이",
+    "color": "grey"
+  },
+  "poliwrath": {
+    "name": "강챙이",
+    "color": "green"
+  },
+  "abra": {
+    "name": "케이시",
+    "color": "blue"
+  },
+  "kadabra": {
+    "name": "윤겔라",
+    "color": "blue"
+  },
+  "alakazam": {
+    "name": "후딘",
+    "color": "blue"
+  },
+  "machop": {
+    "name": "알통몬",
+    "color": "green"
+  },
+  "machoke": {
+    "name": "근육몬",
+    "color": "green"
+  },
+  "machamp": {
+    "name": "괴력몬",
+    "color": "green"
+  },
+  "bellsprout": {
+    "name": "모다피",
+    "color": "grey"
+  },
+  "weepinbell": {
+    "name": "우츠통",
+    "color": "grey"
+  },
+  "victreebel": {
+    "name": "유츠보트",
+    "color": "grey"
+  },
+  "tentacool": {
+    "name": "왕눈해",
+    "color": "grey"
+  },
+  "tentacruel": {
+    "name": "독파리",
+    "color": "green"
+  },
+  "geodude": {
+    "name": "꼬마돌",
+    "color": "green"
+  },
+  "graveler": {
+    "name": "데구리",
+    "color": "green"
+  },
+  "golem": {
+    "name": "딱구리",
+    "color": "green"
+  },
+  "ponyta": {
+    "name": "포니타",
+    "color": "blue"
+  },
+  "rapidash": {
+    "name": "날쌩마",
+    "color": "blue"
+  },
+  "slowpoke": {
+    "name": "야돈",
+    "color": "green"
+  },
+  "slowbro": {
+    "name": "야도란",
+    "color": "blue"
+  },
+  "magnemite": {
+    "name": "코일",
+    "color": "green"
+  },
+  "magneton": {
+    "name": "레어코일",
+    "color": "green"
+  },
+  "farfetchd": {
+    "name": "파오리",
+    "color": "green"
+  },
+  "doduo": {
+    "name": "두두",
+    "color": "grey"
+  },
+  "dodrio": {
+    "name": "두트리오",
+    "color": "green"
+  },
+  "seel": {
+    "name": "쥬쥬",
+    "color": "green"
+  },
+  "dewgong": {
+    "name": "쥬레곤",
+    "color": "green"
+  },
+  "grimer": {
+    "name": "질퍽이",
+    "color": "green"
+  },
+  "muk": {
+    "name": "질뻐기",
+    "color": "green"
+  },
+  "shellder": {
+    "name": "셀러",
+    "color": "green"
+  },
+  "cloyster": {
+    "name": "파르셀",
+    "color": "gren"
+  },
+  "gastly": {
+    "name": "고오스",
+    "color": "purple"
+  },
+  "haunter": {
+    "name": "고우스트",
+    "color": "blue"
+  },
+  "gengar": {
+    "name": "팬텀",
+    "color": "blue"
+  },
+  "onix": {
+    "name": "롱스톤",
+    "color": "purple"
+  },
+  "drowzee": {
+    "name": "슬리프",
+    "color": "green"
+  },
+  "hypno": {
+    "name": "슬리퍼",
+    "color": "green"
+  },
+  "krabby": {
+    "name": "크랩",
+    "color": "grey"
+  },
+  "kingler": {
+    "name": "킹크랩",
+    "color": "grey"
+  },
+  "voltorb": {
+    "name": "찌리리공",
+    "color": "green"
+  },
+  "electrode": {
+    "name": "붐볼",
+    "color": "purple"
+  },
+  "exeggcute": {
+    "name": "아라리",
+    "color": "green"
+  },
+  "exeggutor": {
+    "name": "나시",
+    "color": "green"
+  },
+  "cubone": {
+    "name": "탕구리",
+    "color": "green"
+  },
+  "marowak": {
+    "name": "텅구리",
+    "color": "green"
+  },
+  "hitmonlee": {
+    "name": "시라소몬",
+    "color": "grey"
+  },
+  "hitmonchan": {
+    "name": "홍수몬",
+    "color": "grey"
+  },
+  "lickitung": {
+    "name": "내루미",
+    "color": "grey"
+  },
+  "koffing": {
+    "name": "또가스",
+    "color": "purple"
+  },
+  "weezing": {
+    "name": "또도가스",
+    "color": "purple"
+  },
+  "rhyhorn": {
+    "name": "뿔카노",
+    "color": "grey"
+  },
+  "rhydon": {
+    "name": "코뿌리",
+    "color": "green"
+  },
+  "chansey": {
+    "name": "럭키",
+    "color": "green"
+  },
+  "tangela": {
+    "name": "덩쿠리",
+    "color": "green"
+  },
+  "kangaskhan": {
+    "name": "캥카",
+    "color": "blue"
+  },
+  "horsea": {
+    "name": "쏘드라",
+    "color": "blue"
+  },
+  "seadra": {
+    "name": "시드라",
+    "color": "blue"
+  },
+  "goldeen": {
+    "name": "콘치",
+    "color": "green"
+  },
+  "seaking": {
+    "name": "왕콘치",
+    "color": "green"
+  },
+  "staryu": {
+    "name": "별가사리",
+    "color": "green"
+  },
+  "starmie": {
+    "name": "아쿠스타",
+    "color": "blue"
+  },
+  "mr-mime": {
+    "name": "마임맨",
+    "color": "green"
+  },
+  "scyther": {
+    "name": "스라크",
+    "color": "green"
+  },
+  "jynx": {
+    "name": "루주라",
+    "color": "blue"
+  },
+  "electabuzz": {
+    "name": "에레브",
+    "color": "blue"
+  },
+  "magmar": {
+    "name": "마그마",
+    "color": "purple"
+  },
+  "pinsir": {
+    "name": "쁘사이저",
+    "color": "green"
+  },
+  "tauros": {
+    "name": "켄타로스",
+    "color": "blue"
+  },
+  "magikarp": {
+    "name": "잉어킹",
+    "color": "blue"
+  },
+  "gyarados": {
+    "name": "갸라도스",
+    "color": "yellow"
+  },
+  "lapras": {
+    "name": "라프라스",
+    "color": "green"
+  },
+  "ditto": {
+    "name": "메타몽",
+    "color": "blue"
+  },
+  "eevee": {
+    "name": "이브이",
+    "color": "blue"
+  },
+  "vaporeon": {
+    "name": "샤미드",
+    "color": "blue"
+  },
+  "jolteon": {
+    "name": "쥬피썬더",
+    "color": "blue"
+  },
+  "flareon": {
+    "name": "부스터",
+    "color": "blue"
+  },
+  "porygon": {
+    "name": "폴리곤",
+    "color": "green"
+  },
+  "omanyte": {
+    "name": "암나이트",
+    "color": "green"
+  },
+  "omastar": {
+    "name": "암스타",
+    "color": "green"
+  },
+  "kabuto": {
+    "name": "투구",
+    "color": "green"
+  },
+  "kabutops": {
+    "name": "투구푸스",
+    "color": "green"
+  },
+  "aerodactyl": {
+    "name": "프테라",
+    "color": "green"
+  },
+  "snorlax": {
+    "name": "잠만보",
+    "color": "purple"
+  },
+  "articuno": {
+    "name": "프리져",
+    "color": "yellow"
+  },
+  "zapdos": {
+    "name": "리자드",
+    "color": "yellow"
+  },
+  "moltres": {
+    "name": "파이어",
+    "color": "blue"
+  },
+  "dratini": {
+    "name": "미뇽",
+    "color": "purple"
+  },
+  "dragonair": {
+    "name": "신뇽",
+    "color": "purple"
+  },
+  "dragonite": {
+    "name": "망나뇽",
+    "color": "yellow"
+  },
+  "mewtwo": {
+    "name": "뮤츠",
+    "color": "red"
+  },
+  "mew": {
+    "name": "뮤",
+    "color": "red"
+  }
+}
